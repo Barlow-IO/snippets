@@ -1,3 +1,8 @@
 #Snippets
+To add a snippet, there should be a comment explanation above the snippet
 
-for now this is just javascript, but will be changed to other languages as need be
+**example:**  
+
+    //this is how to make a variable
+    var a = 1
+    
