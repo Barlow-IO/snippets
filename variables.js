@@ -3,7 +3,7 @@ var a = 1;
 a = a + 2;
 console.log(a);
 
-//You can declare decimals, strings with " and '
+//You can declare decimals and strings with " and '
 var pi = 3.14;
 var nameDude = "Billy Ray Cyrus";
 var nameChick = 'Miley Cyrus';
